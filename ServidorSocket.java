@@ -5,6 +5,8 @@ public class ServidorSocket {
     
     private static final int PORT=11000;
 
+    //hola
+
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         String FraseClient;
         String FraseMajuscules;
