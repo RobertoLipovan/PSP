@@ -5,7 +5,7 @@ public class ServidorSocket {
     
     private static final int PORT=11000;
 
-    //hola
+    // adios
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         String FraseClient;
